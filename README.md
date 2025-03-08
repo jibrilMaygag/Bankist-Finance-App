@@ -11,7 +11,6 @@ Features
 Tech Stack
 Installation
 Usage
-Screenshots
 Project Structure
 Contributing
 License
@@ -57,12 +56,6 @@ Enter the desired amount to request a loan.
 Close Account
 Permanently close the account and remove all user data from the interface.
 (If you have specific mock usernames and pins, list them here for testers, e.g., “User: js, PIN: 1111.”)
-
-Screenshots
-(Place a screenshot in a screenshots folder or at the root, and update the path below.)
-
-<p align="center"> <img src="screenshots/bankist-preview.png" alt="Bankist App Screenshot" width="700" /> </p>
-(Include multiple screenshots or GIFs if you want to showcase different parts of the app.)
 
 Project Structure
 bash
